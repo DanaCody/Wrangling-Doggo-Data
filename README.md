@@ -1,5 +1,5 @@
 # Wrangling-Doggo-Data
-This is a project completed during Udacity's data analyst nanodegree. I will provide a brief summary of the files in this repository. 
+This is a project completed during Udacity's data analyst nanodegree. I will provide a brief summary of the files below.
 
 __act_report.pdf__ is a written report of the insights that I had found in my analysis of WeRateDogs tweets.  
 __image_predictions.tsv__ is a file that was provided by Udacity that has the dog breed predictions that were created from a neural network.  
